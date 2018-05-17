@@ -21,7 +21,7 @@ class: center inverse middle
 
 
 ---
-### Let's introduce ourselves  
+### Let's introduce ourselves   
 
 .pull-center[
 <img src="stark.png" width="650", height= "550">

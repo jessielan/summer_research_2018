@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>L2 productions of English plosives</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Ana Rinzler | Rutgers University | Center for Cognitive Science" />
+    <link href="libs/remark-css/rladies.css" rel="stylesheet" />
+    <link href="libs/remark-css/rutgers-fonts.css" rel="stylesheet" />
+    <link href="libs/remark-css/rutgers.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# L2 productions of English plosives
+## Effects of training?
+### Ana Rinzler | Rutgers University | Center for Cognitive Science
+### 4/24/2016
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+class: inverse, center, middle
+
+# Background &amp; Research Question
+
+---
+class: left, middle 
+
+# Background: Timing vs. Amount of Input 
+
+--
+
+.pull-left[
+### Critical Period Hypothesis (Lenneberg, 1967):
+- critical period for acquisition is birth to puberty
+- this applies to both L1 and L2
+- learning a language after puberty is more difficult 
+- difficulty is due to reduction in neural plasticity with age?
+
+
+]
+
+--
+
+.pull-right[
+### 'Input Hypothesis' (Au, ms):
+- adults receive less exposure 
+- optimal acquisition of English as L2 differs by L1
+- Spanish L1 speakers can acquire English 
+  with native-like quality until 15 yrs. (Birdsong &amp; Molis, 2001)
+]  
+--
+
+**Can the quality and quantity of input influence a Cantonese speaker's ability to perceive and produce notoriously difficult English contrasts?**
+
+---
+# What are the English contrasts of interest?  
+**English Plosives:** /p, t, k/ and /b, d, g/
+
+- Bilabial: /p/ is **voiceless**; /b/ is **voiced**
+- Alveolar: /t/ is **voiceless**; /d/ is **voiced**
+- Velar: /k/ is **voiceless**; /g/ is **voiced** 
+
+--
+
+### What makes these contrasts difficult? 
+
+--
+.pull-left[
+**Cantonese** /p, t, k/ and /b, d, g/
+- Cantonese does not have articulatory feature of **voicing** 
+- Cantonese uses **aspiration** to make these distinction in onset position
+- Cantonese **only** has unreleased /p, t, k/ in coda position
+]
+--
+.pull-right[
+**English:** /p, t, k/ and /b, d, g/
+- In English /p, t, k/ are **aspirated** (i.e. in onset position: [**p**æt] vs. [**b**æt])
+- In English /p, t, k/ are **unaspirated** and released (i.e. in coda position: [tæ**p**] vs. [tæ**b**])
+] 
+
+Chan and Li (2000)
+
+Note: _I will focus on words with stops in coda position_
+
+---
+class: left, middle 
+
+# Main Question of interest
+
+--
+
+## Does training result in trained Cantonese speakers producing longer vowel  durations in words with voiced stops in coda position? 
+
+--
+
+# Prediction
+
+--
+
+Cantonese speakers that received training will produce longer vowel lengths in words with voiced stops in coda position than Cantonese speakers that _did not_ receive training.  
+
+**Note:** _The training and collection of Cantonese speakers data was done by Terry Au (ms). She generously permitted us to use her data for acoustic analyses_
+
+---
+
+# Why hypothesize this?
+
+- Vowel duration is an acoustic cue to stops in coda position in English 
+- Vowel duration is **longer** before voiced consonants than for voiceless
+ 
+(Charles-Luce, 1985; House and Fairbanks, 1953; Peterson and Lehiste, 1960;
+House, 1961; Umeda, 1975; Klatt, 1976)  
+
+
+--
+Perhaps Cantonese speakers utilize this cue to distinguish between voiced and voiceless consonants.  
+
+--
+
+**Are Cantonese speakers producing these words like native English speakers; or are they doing something different?**
+---
+class: inverse, center, middle
+
+# Methods
+
+---
+# Methods
+
+Participants (18- 22 yrs.)
+- 18 trained adult Cantonese speakers 
+- 18 waitlist-control adult Cantonese speakers 
+
+--
+
+Data
+- Productions of phonological minimal word pairs with **voiced** and **voiceless** stops in coda position after training 
+
+--
+
+.pull-left[
+**Voiced**
+- bad
+- bag 
+- cab
+- cub
+- dog
+- fad
+- feed 
+- pig
+- tab 
+]
+
+--
+
+.pull-right[
+**Voiceless**
+- bat
+- back
+- cap
+- cup
+- dock
+- fat
+- feet
+- pick
+- tab 
+]
+
+
+
+---
+
+# Acoustic Slicing
+- Used PRAAT
+- Marked vowel duration boundaries for all productions 
+- Utilized the wav method for the beginning of the vowel and F2 method for the end of the vowel 
+
+
+--
+Categorical Predictors: **Fixed Effects**
+- Training: 2 levels (untrained/trained)
+- Voicing: 2 levels (voiceless/voiced)
+
+Categorical Predictors: **Random Effect**
+- Participant
+
+
+--
+
+Criterion
+- Vowel duration (ms) of post productions with voiced and voiceless plosives in coda position 
+
+---
+# Data 
+
+### This is the tidy data: 
+
+```
+##   Participant TrainingGroup Word VoicedUnvoiced Position Dur
+## 1        1404           Yes back       unvoiced    vowel 236
+## 2        1404           Yes  bat       unvoiced    vowel 259
+## 3        1404           Yes  cup       unvoiced    vowel 158
+## 4        1404           Yes dock       unvoiced    vowel 186
+## 5        1404           Yes  fat       unvoiced    vowel 194
+##   PrePosttraining OnsetMedialCoda      POA tierNumber
+## 1            post            coda    velar          1
+## 2            post            coda alveolar          1
+## 3            post            coda bilabial          1
+## 4            post            coda    velar          1
+## 5            post            coda alveolar          1
+```
+---
+# Data 
+
+### Summary of stats
+
+```
+##   TrainingGroup VoicedUnvoiced Dur.Mean Dur.StandDev
+## 1            No       unvoiced 166.7778     50.35773
+## 2            No         voiced 182.9568     53.82619
+## 3           Yes       unvoiced 165.8696     49.00142
+## 4           Yes         voiced 196.3252     58.84683
+```
+
+---
+# Viewing the data
+&lt;img src="index_files/figure-html/unnamed-chunk-4-1.png" width="576" style="display: block; margin: auto;" /&gt;
+
+Overall, it appears that trained and untrained participants had about equal vowel lengths - with longer vowel lengths for in the voiced trained condition
+
+---
+# Viewing the data
+&lt;img src="index_files/figure-html/unnamed-chunk-5-1.png" width="864" style="display: block; margin: auto;" /&gt;
+
+---
+# Viewing the data
+&lt;img src="index_files/figure-html/unnamed-chunk-6-1.png" width="576" style="display: block; margin: auto;" /&gt;
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"self_contained": false,
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://cdn.bootcss.com/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>

@@ -2,7 +2,7 @@
 title: "Welcome to our Language Lab"
 subtitle: "⚔<br/> Let's do this"
 author: "Ana Rinzler"
-date: "5/7/2018"
+date: "5/29/2018"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -21,8 +21,6 @@ class: center inverse middle
 
 
 ---
-### Let's introduce ourselves   
-
 .pull-center[
 <img src="stark.png" width="650", height= "550">
 ]
@@ -64,6 +62,11 @@ _How the brain generates and comprehends language_
 ### Through prosody... Megan
 
 --
+
+### Through Phonetics/Syntax ... Sten
+
+--
+
 ### Through phonology... Ana 
 
 ---
@@ -81,14 +84,14 @@ class: center inverse middle
 
 ---
 # Introduction to Programs
-- PRAAT
+- Praat
 - Slack
 - Github
 - R and R Studio
 - SPSS
 
 ---
-### PRAAT: used for acoustic analysis
+### Praat: used for acoustic analysis
 
 --
 ### Slack: used for commuication purposes 
@@ -114,18 +117,18 @@ class: center inverse middle
 
 ---
 class: center inverse middle
-# Returning to PRAAT
+# Returning to Praat
 
 ---
-# PRAAT
+# Praat
 ![](waveform.png)
 image credit: http://savethevowels.org/praat/html/ 
 
 ---
-# Downloading PRAAT
+# Downloading Praat
 
-- Download PRAAT for windows: http://www.fon.hum.uva.nl/praat/download_win.html 
-- Download PRAAT for Mac: http://www.fon.hum.uva.nl/praat/download_mac.html 
+- Download Praat for windows: http://www.fon.hum.uva.nl/praat/download_win.html 
+- Download Praat for Mac: http://www.fon.hum.uva.nl/praat/download_mac.html 
 
 
 ---
@@ -260,12 +263,18 @@ README.md are automatically converted to HTML and displayed in the repo page.
 
 We will be using lab computers that already have SPSS on them 
 - No need to download
-- Will be learning about ANOVA
+- Will be learning about and using ANOVA for statistical analysis 
 
 ---
 # Last comments
 
 ### Sakai
-- Will create a site for us there as well
+- Will have access to Stromswold Lab on Sakai 
+- This is where we will also store our slices and other important information
+- You can never back-up your hard work too much!
 
+---
+# Let's Praat
+- Learning about acoustic analysis - what is acoustic analysis?
+- Working with praat - practice exercise 
 

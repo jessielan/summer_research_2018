@@ -2,7 +2,7 @@
 title: "L2 productions of English plosives"
 subtitle: "Effects of training?"
 author: "Ana Rinzler  |  Rutgers University | Center for Cognitive Science"
-date: "4/24/2016"
+date: "5/29/2018"
 output:
   xaringan::moon_reader:
     css: ['rladies', 'rutgers-fonts', 'rutgers']

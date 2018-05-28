@@ -63,7 +63,7 @@ _How the brain generates and comprehends language_
 
 --
 
-### Through Phonetics/Syntax ... Sten
+### Through phonetics/syntax ... Sten
 
 --
 
@@ -97,7 +97,8 @@ class: center inverse middle
 
 --
 ### Slack: used for commuication purposes 
-- Do you have questios, comments or concerns?
+- Do you have questions, comments or concerns?
+- Want to share something cool  that you found?
 - Join our personal slack here: https://join.slack.com/t/langacquisition2018/shared_invite/enQtMzY0OTM3NjMwODAwLTQzNWQ2ZjRiMTg1NWExZDRiMjc0NWJjZjcyMDc0OTFlYjk0ZTNiMWE4MjgxM2UwOTQwNWNjZTllNWQyOTE2YjY 
 
 

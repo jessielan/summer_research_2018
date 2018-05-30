@@ -1,0 +1,62 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.8523129251700681 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 0.8523129251700681 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3712391460649301 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3712391460649301 
+            xmax = 0.517342499441091 
+            text = "vowel" 
+        intervals [3]:
+            xmin = 0.517342499441091 
+            xmax = 0.8523129251700681 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "vbar" 
+        xmin = 0 
+        xmax = 0.8523129251700681 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.517342499441091 
+            text = "" 
+        intervals [2]:
+            xmin = 0.517342499441091 
+            xmax = 0.7312940167248557 
+            text = "null vbar" 
+        intervals [3]:
+            xmin = 0.7312940167248557 
+            xmax = 0.8523129251700681 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "dur" 
+        xmin = 0 
+        xmax = 0.8523129251700681 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.517342499441091 
+            text = "" 
+        intervals [2]:
+            xmin = 0.517342499441091 
+            xmax = 0.6610114622501603 
+            text = "dur" 
+        intervals [3]:
+            xmin = 0.6610114622501603 
+            xmax = 0.8523129251700681 
+            text = "" 

@@ -1,4 +1,5 @@
 Contact information: 
+
   Ana Rinzler 
   Phone: 845-332-3600
   Email: anb136@scarletmail.rutgers.edu 
@@ -15,8 +16,8 @@ Contact information:
   Phone: 609-510-4544
   Email: na479@scarletmail.rutgers.edu
     
-  Han Yan: 
-  Phone: 
+  Han Yan
+  Phone: 732-789-4702
   Email: hy259@scarletmail.rutgers.edu
     
   

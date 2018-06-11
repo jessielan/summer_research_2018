@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.1929478458049887 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vot" 
+        xmin = 0 
+        xmax = 1.1929478458049887 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6158743395835492 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6158743395835492 
+            xmax = 0.6849947297981375 
+            text = "vot" 
+        intervals [3]:
+            xmin = 0.6849947297981375 
+            xmax = 1.1929478458049887 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "asp" 
+        xmin = 0 
+        xmax = 1.1929478458049887 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.627794227994228 
+            text = "" 
+        intervals [2]:
+            xmin = 0.627794227994228 
+            xmax = 0.6849947297981375 
+            text = "asp" 
+        intervals [3]:
+            xmin = 0.6849947297981375 
+            xmax = 1.1929478458049887 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 1.1929478458049887 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6849947297981375 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6849947297981375 
+            xmax = 0.8734374672946101 
+            text = "vowel" 
+        intervals [3]:
+            xmin = 0.8734374672946101 
+            xmax = 1.1929478458049887 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "vbar" 
+        xmin = 0 
+        xmax = 1.1929478458049887 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6086919174449441 
+            text = "" 
+        intervals [2]:
+            xmin = 0.6086919174449441 
+            xmax = 0.6849947297981375 
+            text = "null vbar" 
+        intervals [3]:
+            xmin = 0.6849947297981375 
+            xmax = 1.1929478458049887 
+            text = "" 

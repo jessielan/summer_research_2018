@@ -1,0 +1,80 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 1.0624943310657597 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vot" 
+        xmin = 0 
+        xmax = 1.0624943310657597 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49464852607709753 
+            text = "" 
+        intervals [2]:
+            xmin = 0.49464852607709753 
+            xmax = 0.498457728344112 
+            text = "vot" 
+        intervals [3]:
+            xmin = 0.498457728344112 
+            xmax = 1.0624943310657597 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "asp" 
+        xmin = 0 
+        xmax = 1.0624943310657597 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4957117969138875 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4957117969138875 
+            xmax = 0.498457728344112 
+            text = "null asp" 
+        intervals [3]:
+            xmin = 0.498457728344112 
+            xmax = 1.0624943310657597 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 1.0624943310657597 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.498457728344112 
+            text = "" 
+        intervals [2]:
+            xmin = 0.498457728344112 
+            xmax = 0.7471210589498958 
+            text = "vowel" 
+        intervals [3]:
+            xmin = 0.7471210589498958 
+            xmax = 1.0624943310657597 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "vbar" 
+        xmin = 0 
+        xmax = 1.0624943310657597 
+        intervals: size = 3 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49464852607709753 
+            text = "" 
+        intervals [2]:
+            xmin = 0.49464852607709753 
+            xmax = 0.498457728344112 
+            text = "null asp" 
+        intervals [3]:
+            xmin = 0.498457728344112 
+            xmax = 1.0624943310657597 
+            text = "" 

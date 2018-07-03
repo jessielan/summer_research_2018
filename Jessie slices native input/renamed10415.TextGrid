@@ -1,0 +1,74 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 0.9461451247165533 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "vowel" 
+        xmin = 0 
+        xmax = 0.9461451247165533 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.49968393859698207 
+            text = "" 
+        intervals [2]:
+            xmin = 0.49968393859698207 
+            xmax = 0.7328062336045529 
+            text = "vowel" 
+        intervals [3]:
+            xmin = 0.7328062336045529 
+            xmax = 0.7611315192743764 
+            text = "" 
+        intervals [4]:
+            xmin = 0.7611315192743764 
+            xmax = 0.9461451247165533 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "vbar" 
+        xmin = 0 
+        xmax = 0.9461451247165533 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7328062336045529 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7328062336045529 
+            xmax = 0.7611315192743764 
+            text = "" 
+        intervals [3]:
+            xmin = 0.7611315192743764 
+            xmax = 0.8658509960458013 
+            text = "null vbar" 
+        intervals [4]:
+            xmin = 0.8658509960458013 
+            xmax = 0.9461451247165533 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "dur" 
+        xmin = 0 
+        xmax = 0.9461451247165533 
+        intervals: size = 4 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.7328062336045529 
+            text = "" 
+        intervals [2]:
+            xmin = 0.7328062336045529 
+            xmax = 0.7611315192743764 
+            text = "" 
+        intervals [3]:
+            xmin = 0.7611315192743764 
+            xmax = 0.7938783846872083 
+            text = "dur" 
+        intervals [4]:
+            xmin = 0.7938783846872083 
+            xmax = 0.9461451247165533 
+            text = "" 

@@ -18,10 +18,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 0.9411242673009844 
-            xmax = 1.0716904785688126 
+            xmax = 1.0637656595875942 
             text = "vowel" 
         intervals [3]:
-            xmin = 1.0716904785688126 
+            xmin = 1.0637656595875942 
             xmax = 2.336848072562358 
             text = "" 
     item [2]:
@@ -50,10 +50,10 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 1.0716904785688126 
+            xmax = 1.0637656595875942 
             text = "" 
         intervals [2]:
-            xmin = 1.0716904785688126 
+            xmin = 1.0637656595875942 
             xmax = 1.1479421426177951 
             text = "dur" 
         intervals [3]:

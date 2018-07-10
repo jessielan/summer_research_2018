@@ -36,10 +36,10 @@ item []:
             text = "" 
         intervals [2]:
             xmin = 1.016143450236841 
-            xmax = 1.1422968447196786 
-            text = "null vbar" 
+            xmax = 1.087780735394931 
+            text = "vbar" 
         intervals [3]:
-            xmin = 1.1422968447196786 
+            xmin = 1.087780735394931 
             xmax = 1.8666439909297052 
             text = "" 
     item [3]:

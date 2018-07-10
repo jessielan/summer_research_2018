@@ -32,14 +32,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 1.2238864439204202 
+            xmax = 1.2296023833018985 
             text = "" 
         intervals [2]:
-            xmin = 1.2238864439204202 
-            xmax = 1.3428626796718777 
-            text = "null vbar" 
+            xmin = 1.2296023833018985 
+            xmax = 1.2596670686415157 
+            text = "vbar" 
         intervals [3]:
-            xmin = 1.3428626796718777 
+            xmin = 1.2596670686415157 
             xmax = 2.1539909297052153 
             text = "" 
     item [3]:

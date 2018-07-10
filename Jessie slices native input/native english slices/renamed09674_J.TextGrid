@@ -29,13 +29,17 @@ item []:
         name = "vbar" 
         xmin = 0 
         xmax = 1.9711337868480725 
-        intervals: size = 2 
+        intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 1.2031684311805995 
-            text = "null vbar" 
+            xmax = 1.1079427294043112 
+            text = "" 
         intervals [2]:
-            xmin = 1.2031684311805995 
+            xmin = 1.1079427294043112 
+            xmax = 1.246120278181556 
+            text = "null vbar" 
+        intervals [3]:
+            xmin = 1.246120278181556 
             xmax = 1.9711337868480725 
             text = "" 
     item [3]:
@@ -43,12 +47,16 @@ item []:
         name = "dur" 
         xmin = 0 
         xmax = 1.9711337868480725 
-        intervals: size = 2 
+        intervals: size = 3 
         intervals [1]:
             xmin = 0 
+            xmax = 1.1079427294043112 
+            text = "" 
+        intervals [2]:
+            xmin = 1.1079427294043112 
             xmax = 1.1911792417667941 
             text = "dur" 
-        intervals [2]:
+        intervals [3]:
             xmin = 1.1911792417667941 
             xmax = 1.9711337868480725 
             text = "" 

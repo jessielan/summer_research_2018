@@ -29,20 +29,16 @@ item []:
         name = "vbar" 
         xmin = 0 
         xmax = 2.0233786848072564 
-        intervals: size = 4 
+        intervals: size = 3 
         intervals [1]:
             xmin = 0 
             xmax = 0.9523786012435299 
             text = "" 
         intervals [2]:
             xmin = 0.9523786012435299 
-            xmax = 1.0025465651399963 
-            text = "" 
-        intervals [3]:
-            xmin = 1.0025465651399963 
             xmax = 1.1978389166876953 
             text = "null vbar" 
-        intervals [4]:
+        intervals [3]:
             xmin = 1.1978389166876953 
             xmax = 2.0233786848072564 
             text = "" 

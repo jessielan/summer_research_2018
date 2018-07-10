@@ -14,14 +14,14 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.627353429403401 
+            xmax = 0.6317262288156913 
             text = "" 
         intervals [2]:
-            xmin = 0.627353429403401 
-            xmax = 0.7694005954542503 
+            xmin = 0.6317262288156913 
+            xmax = 0.8326358766462747 
             text = "vowel" 
         intervals [3]:
-            xmin = 0.7694005954542503 
+            xmin = 0.8326358766462747 
             xmax = 1.9188888888888889 
             text = "" 
     item [2]:
@@ -32,10 +32,10 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.7694005954542503 
+            xmax = 0.8326358766462747 
             text = "" 
         intervals [2]:
-            xmin = 0.7694005954542503 
+            xmin = 0.8326358766462747 
             xmax = 1.03963747738176 
             text = "null vbar" 
         intervals [3]:
@@ -50,10 +50,10 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.7694005954542503 
+            xmax = 0.8326358766462747 
             text = "" 
         intervals [2]:
-            xmin = 0.7694005954542503 
+            xmin = 0.8326358766462747 
             xmax = 0.9274709324055447 
             text = "dur" 
         intervals [3]:

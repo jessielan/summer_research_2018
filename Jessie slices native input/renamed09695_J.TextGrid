@@ -2,7 +2,7 @@ File type = "ooTextFile"
 Object class = "TextGrid"
 
 xmin = 0 
-xmax = 1.9188888888888889 
+xmax = 1.9450113378684808 
 tiers? <exists> 
 size = 3 
 item []: 
@@ -10,53 +10,53 @@ item []:
         class = "IntervalTier" 
         name = "vowel" 
         xmin = 0 
-        xmax = 1.9188888888888889 
+        xmax = 1.9450113378684808 
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.7972631510953707 
+            xmax = 0.7390411058376806 
             text = "" 
         intervals [2]:
-            xmin = 0.7972631510953707 
-            xmax = 1.1135340929383386 
+            xmin = 0.7390411058376806 
+            xmax = 1.0631349662028866 
             text = "vowel" 
         intervals [3]:
-            xmin = 1.1135340929383386 
-            xmax = 1.9188888888888889 
+            xmin = 1.0631349662028866 
+            xmax = 1.9450113378684808 
             text = "" 
     item [2]:
         class = "IntervalTier" 
         name = "vbar" 
         xmin = 0 
-        xmax = 1.9188888888888889 
+        xmax = 1.9450113378684808 
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 1.1135340929383386 
+            xmax = 1.0743285021874107 
             text = "" 
         intervals [2]:
-            xmin = 1.1135340929383386 
-            xmax = 1.161836276012491 
+            xmin = 1.0743285021874107 
+            xmax = 1.1407268855634336 
             text = "vbar" 
         intervals [3]:
-            xmin = 1.161836276012491 
-            xmax = 1.9188888888888889 
+            xmin = 1.1407268855634336 
+            xmax = 1.9450113378684808 
             text = "" 
     item [3]:
         class = "IntervalTier" 
         name = "dur" 
         xmin = 0 
-        xmax = 1.9188888888888889 
+        xmax = 1.9450113378684808 
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 1.1135340929383386 
+            xmax = 1.0631349662028866 
             text = "" 
         intervals [2]:
-            xmin = 1.1135340929383386 
-            xmax = 1.1579826672978442 
+            xmin = 1.0631349662028866 
+            xmax = 1.1461437595560164 
             text = "dur" 
         intervals [3]:
-            xmin = 1.1579826672978442 
-            xmax = 1.9188888888888889 
+            xmin = 1.1461437595560164 
+            xmax = 1.9450113378684808 
             text = "" 

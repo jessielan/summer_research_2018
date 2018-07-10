@@ -14,10 +14,10 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 0.7795712115939605 
+            xmax = 0.7847711399047107 
             text = "" 
         intervals [2]:
-            xmin = 0.7795712115939605 
+            xmin = 0.7847711399047107 
             xmax = 1.1470915976721787 
             text = "vowel" 
         intervals [3]:
@@ -32,10 +32,10 @@ item []:
         intervals: size = 3 
         intervals [1]:
             xmin = 0 
-            xmax = 1.1470915976721787 
+            xmax = 1.157048029984065 
             text = "" 
         intervals [2]:
-            xmin = 1.1470915976721787 
+            xmin = 1.157048029984065 
             xmax = 1.206484249797858 
             text = "vbar" 
         intervals [3]:

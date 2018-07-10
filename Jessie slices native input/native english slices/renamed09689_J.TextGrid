@@ -19,7 +19,7 @@ item []:
         intervals [2]:
             xmin = 0.8652197306983773 
             xmax = 1.16299989673615 
-            text = "" 
+            text = "vowel" 
         intervals [3]:
             xmin = 1.16299989673615 
             xmax = 2.0756235827664398 
